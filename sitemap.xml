@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thesanews.com/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thesanews.com/tags/africa/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/categories/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/categories/politics/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/post/</loc>
@@ -11,18 +20,23 @@
     <loc>https://thesanews.com/tags/russia/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thesanews.com/post/rich-content/</loc>
+    <loc>https://thesanews.com/p/russia-the-us-propose-to-manipulate-and-control-african-governments-against-russia/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/tags/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thesanews.com/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thesanews.com/tags/usa/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thesanews.com/categories/</loc>
+    <loc>https://thesanews.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/search/</loc>
+  </url><url>
+    <loc>https://thesanews.com/categories/test/</loc>
   </url>
 </urlset>

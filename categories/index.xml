@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on The South Atlantic News</title>
-    <link>https://thesanews.com/categories/</link>
-    <description>Recent content in Categories on The South Atlantic News</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://thesanews.com/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Categories on The South Atlantic News</title>
+        <link>https://thesanews.com/categories/</link>
+        <description>Recent content in Categories on The South Atlantic News</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Politics</title>
+        <link>https://thesanews.com/categories/politics/</link>
+        <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/categories/politics/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://thesanews.com/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/categories/test/</guid>
+        <description>&lt;img src="https://thesanews.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
 </rss>
