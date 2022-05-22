@@ -1,81 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://thesanews.com/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/categories/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/europe/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/categories/health/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/lgtb/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/monkeypox/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/p/monkeypox-the-forthcoming-lgbt-pride-month-may-worsen-the-situation/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/post/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/basketball/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/fiba/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/p/nbbf-leadership-crisis-threats-bans-and-the-decadence-of-basketball-in-nigeria/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/nigeria/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/categories/sports/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/categories/crime/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/p/insecurity-1635-people-kidnapped-in-northern-nigeria/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/africa/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/categories/politics/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/russia/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/p/russia-the-us-propose-to-manipulate-and-control-african-governments-against-russia/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/tags/usa/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/page/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/privacy-policy/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/search/</loc>
-  </url><url>
-    <loc>https://thesanews.com/categories/test/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://thesanews.com/en/sitemap.xml</loc>
+    
+      <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://thesanews.com/fr/sitemap.xml</loc>
+    
+      <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
