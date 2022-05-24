@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thesanews.com/fr/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/page/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/page/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/politique-de-confidentialit%C3%A9/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/politique-de-confidentialit%C3%A9/"
+                />
+  </url><url>
     <loc>https://thesanews.com/fr/categories/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,7 +54,7 @@
                 href="https://thesanews.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://thesanews.com/fr/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/</loc>
+    <loc>https://thesanews.com/fr/p/des-inondations-ont-de-nouveau-frapp%C3%A9-le-kwazulu-natal-d%C3%A9pla%C3%A7ant-des-dizaines-de-personnes/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -25,24 +64,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thesanews.com/fr/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/"
+                href="https://thesanews.com/fr/p/des-inondations-ont-de-nouveau-frapp%C3%A9-le-kwazulu-natal-d%C3%A9pla%C3%A7ant-des-dizaines-de-personnes/"
                 />
   </url><url>
     <loc>https://thesanews.com/fr/tags/linondation/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/fr/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/"
-                />
   </url><url>
     <loc>https://thesanews.com/fr/post/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
@@ -250,30 +276,28 @@
                 href="https://thesanews.com/fr/les-archives/"
                 />
   </url><url>
-    <loc>https://thesanews.com/fr/page/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/fr/profile/esther-chukwuoha/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thesanews.com/page/"
+                href="https://thesanews.com/profile/esther-chukwuoha/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thesanews.com/fr/page/"
+                href="https://thesanews.com/fr/profile/esther-chukwuoha/"
                 />
   </url><url>
-    <loc>https://thesanews.com/fr/politique-de-confidentialit%C3%A9/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/fr/profile/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thesanews.com/privacy-policy/"
+                href="https://thesanews.com/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thesanews.com/fr/politique-de-confidentialit%C3%A9/"
+                href="https://thesanews.com/fr/profile/"
                 />
   </url><url>
     <loc>https://thesanews.com/fr/rechercher/</loc>
@@ -286,6 +310,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://thesanews.com/fr/rechercher/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/profile/tobi-balogun/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/profile/tobi-balogun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/profile/tobi-balogun/"
                 />
   </url>
 </urlset>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thesanews.com/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thesanews.com/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/page/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/page/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/privacy-policy/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/politique-de-confidentialit%C3%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/privacy-policy/"
                 />
   </url><url>
     <loc>https://thesanews.com/categories/</loc>
@@ -36,7 +62,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thesanews.com/fr/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/"
+                href="https://thesanews.com/fr/p/des-inondations-ont-de-nouveau-frapp%C3%A9-le-kwazulu-natal-d%C3%A9pla%C3%A7ant-des-dizaines-de-personnes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -247,30 +273,28 @@
                 href="https://thesanews.com/archives/"
                 />
   </url><url>
-    <loc>https://thesanews.com/page/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/profile/esther-chukwuoha/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thesanews.com/fr/page/"
+                href="https://thesanews.com/fr/profile/esther-chukwuoha/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thesanews.com/page/"
+                href="https://thesanews.com/profile/esther-chukwuoha/"
                 />
   </url><url>
-    <loc>https://thesanews.com/privacy-policy/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/profile/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thesanews.com/fr/politique-de-confidentialit%C3%A9/"
+                href="https://thesanews.com/fr/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thesanews.com/privacy-policy/"
+                href="https://thesanews.com/profile/"
                 />
   </url><url>
     <loc>https://thesanews.com/search/</loc>
@@ -286,5 +310,17 @@
                 />
   </url><url>
     <loc>https://thesanews.com/categories/test/</loc>
+  </url><url>
+    <loc>https://thesanews.com/profile/tobi-balogun/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/profile/tobi-balogun/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/profile/tobi-balogun/"
+                />
   </url>
 </urlset>

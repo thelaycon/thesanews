@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Profiles on The South Atlantic News</title>
+        <link>https://thesanews.com/profile/</link>
+        <description>Recent content in Profiles on The South Atlantic News</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://thesanews.com/profile/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Esther Chukwuoha</title>
+        <link>https://thesanews.com/profile/esther-chukwuoha/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/profile/esther-chukwuoha/</guid>
+        <description>&lt;h1 id=&#34;esther-chukwuoha&#34;&gt;Esther Chukwuoha&lt;/h1&gt;
+&lt;p&gt;A passionate explorer of West and Southern Africa who tells the continent&amp;rsquo;s undiscovered stories from an African perspective.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tobi Balogun</title>
+        <link>https://thesanews.com/profile/tobi-balogun/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/profile/tobi-balogun/</guid>
+        <description>&lt;h1 id=&#34;tobi-balogun&#34;&gt;Tobi Balogun&lt;/h1&gt;
+&lt;p&gt;A writer and data scientist who enjoys utilizing numbers to create stories about Africa and South America.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
