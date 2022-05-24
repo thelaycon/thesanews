@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Les nouvelles de l&#39;Atlantique Sud</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Crime</title>
+        <link>https://thesanews.com/fr/categories/crime/</link>
+        <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/fr/categories/crime/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Sané</title>
         <link>https://thesanews.com/fr/categories/san%C3%A9/</link>
         <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
@@ -28,14 +36,6 @@
         <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
         
         <guid>https://thesanews.com/fr/categories/des-sports/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Crime</title>
-        <link>https://thesanews.com/fr/categories/crime/</link>
-        <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://thesanews.com/fr/categories/crime/</guid>
         <description></description>
         </item>
         <item>

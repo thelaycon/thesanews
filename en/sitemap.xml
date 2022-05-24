@@ -15,6 +15,71 @@
                 href="https://thesanews.com/"
                 />
   </url><url>
+    <loc>https://thesanews.com/categories/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/categories/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/categories/crime/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/categories/crime/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/categories/crime/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/ipob/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/ipob/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/ipob/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/p/ipob-nigeria-must-be-politically-decentralized-adamu-garba-boils-over-fatimas-death/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/ipob-le-nigeria-doit-%C3%AAtre-politiquement-d%C3%A9centralis%C3%A9-adamu-garba-bout-sur-la-mort-de-fatima/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/ipob-nigeria-must-be-politically-decentralized-adamu-garba-boils-over-fatimas-death/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/nigeria/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/nigeria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/nigeria/"
+                />
+  </url><url>
     <loc>https://thesanews.com/page/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,6 +91,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thesanews.com/page/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/post/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/post/"
                 />
   </url><url>
     <loc>https://thesanews.com/privacy-policy/</loc>
@@ -41,17 +119,17 @@
                 href="https://thesanews.com/privacy-policy/"
                 />
   </url><url>
-    <loc>https://thesanews.com/categories/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/tags/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://thesanews.com/fr/categories/"
+                href="https://thesanews.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://thesanews.com/categories/"
+                href="https://thesanews.com/tags/"
                 />
   </url><url>
     <loc>https://thesanews.com/tags/flood/</loc>
@@ -73,19 +151,6 @@
     <loc>https://thesanews.com/categories/health/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thesanews.com/post/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/post/"
-                />
-  </url><url>
     <loc>https://thesanews.com/tags/south-africa/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -97,19 +162,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thesanews.com/tags/south-africa/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/tags/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/tags/"
                 />
   </url><url>
     <loc>https://thesanews.com/tags/europe/</loc>
@@ -193,34 +245,8 @@
                 href="https://thesanews.com/p/nbbf-leadership-crisis-threats-bans-and-the-decadence-of-basketball-in-nigeria/"
                 />
   </url><url>
-    <loc>https://thesanews.com/tags/nigeria/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/tags/nigeria/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/tags/nigeria/"
-                />
-  </url><url>
     <loc>https://thesanews.com/categories/sports/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/categories/crime/</loc>
-    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/categories/crime/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/categories/crime/"
-                />
   </url><url>
     <loc>https://thesanews.com/p/insecurity-1635-people-kidnapped-in-northern-nigeria/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
