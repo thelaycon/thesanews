@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thesanews.com/fr/categories/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,24 @@
                 href="https://thesanews.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://thesanews.com/fr/tags/leurope/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/fr/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/linondation/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +43,51 @@
                 hreflang="fr"
                 href="https://thesanews.com/fr/"
                 />
+  </url><url>
+    <loc>https://thesanews.com/fr/post/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/post/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/categories/san%C3%A9/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/south-africa/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/south-africa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/south-africa/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/leurope/</loc>
+    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/tags/lgbt/</loc>
     <lastmod>2022-05-21T00:00:00+00:00</lastmod>
@@ -70,34 +128,8 @@
                 href="https://thesanews.com/fr/p/monkeypox-le-prochain-mois-de-la-fiert%C3%A9-lgbt-pourrait-aggraver-la-situation/"
                 />
   </url><url>
-    <loc>https://thesanews.com/fr/post/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/post/"
-                />
-  </url><url>
     <loc>https://thesanews.com/fr/categories/sant%C3%A9/</loc>
     <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/fr/tags/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/tags/"
-                />
   </url><url>
     <loc>https://thesanews.com/fr/tags/basketball/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thesanews.com/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://thesanews.com/categories/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -28,10 +28,65 @@
                 href="https://thesanews.com/categories/"
                 />
   </url><url>
-    <loc>https://thesanews.com/tags/europe/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/tags/flood/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/flooding-has-struck-kwazulu-natal-once-more-displacing-dozens-of-people/"
+                />
   </url><url>
     <loc>https://thesanews.com/categories/health/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/post/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/post/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/south-africa/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/south-africa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/south-africa/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/</loc>
+    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/europe/</loc>
     <lastmod>2022-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/tags/lgbt/</loc>
@@ -71,32 +126,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thesanews.com/p/monkeypox-the-forthcoming-lgbt-pride-month-may-worsen-the-situation/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/post/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/post/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/tags/</loc>
-    <lastmod>2022-05-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/tags/"
                 />
   </url><url>
     <loc>https://thesanews.com/tags/basketball/</loc>

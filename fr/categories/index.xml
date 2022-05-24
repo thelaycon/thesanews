@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Les nouvelles de l&#39;Atlantique Sud</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Sané</title>
+        <link>https://thesanews.com/fr/categories/san%C3%A9/</link>
+        <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/fr/categories/san%C3%A9/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Santé</title>
         <link>https://thesanews.com/fr/categories/sant%C3%A9/</link>
         <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
