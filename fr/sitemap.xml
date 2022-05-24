@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thesanews.com/fr/p/salvador-ramos-18-ans-tue-sa-grand-m%C3%A8re-et-des-%C3%A9l%C3%A8ves-dune-ancienne-%C3%A9cole-lors-dune-fusillade-au-texas/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/salvador-ramos-18-kills-his-grandma-and-students-of-former-school-in-a-texas-shooting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/salvador-ramos-18-ans-tue-sa-grand-m%C3%A8re-et-des-%C3%A9l%C3%A8ves-dune-ancienne-%C3%A9cole-lors-dune-fusillade-au-texas/"
+                />
+  </url><url>
     <loc>https://thesanews.com/fr/categories/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -27,6 +40,9 @@
                 hreflang="fr"
                 href="https://thesanews.com/fr/categories/crime/"
                 />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/%C3%A9tats-unis/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/tags/ipob/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
@@ -130,6 +146,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://thesanews.com/fr/tags/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/texas/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/texas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/texas/"
                 />
   </url><url>
     <loc>https://thesanews.com/fr/p/des-inondations-ont-de-nouveau-frapp%C3%A9-le-kwazulu-natal-d%C3%A9pla%C3%A7ant-des-dizaines-de-personnes/</loc>
@@ -263,9 +292,6 @@
                 hreflang="fr"
                 href="https://thesanews.com/fr/p/ins%C3%A9curit%C3%A9-1635-personnes-kidnapp%C3%A9es-dans-le-nord-du-nigeria/"
                 />
-  </url><url>
-    <loc>https://thesanews.com/fr/tags/%C3%A9tats-unis/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/tags/l%C3%A1frique/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>

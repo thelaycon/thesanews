@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thesanews.com/p/salvador-ramos-18-kills-his-grandma-and-students-of-former-school-in-a-texas-shooting/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/salvador-ramos-18-ans-tue-sa-grand-m%C3%A8re-et-des-%C3%A9l%C3%A8ves-dune-ancienne-%C3%A9cole-lors-dune-fusillade-au-texas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/salvador-ramos-18-kills-his-grandma-and-students-of-former-school-in-a-texas-shooting/"
+                />
+  </url><url>
     <loc>https://thesanews.com/</loc>
     <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -131,6 +144,22 @@
                 hreflang="en"
                 href="https://thesanews.com/tags/"
                 />
+  </url><url>
+    <loc>https://thesanews.com/tags/texas/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/texas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/texas/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/usa/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/tags/flood/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
@@ -282,9 +311,6 @@
                 hreflang="en"
                 href="https://thesanews.com/p/russia-the-us-propose-to-manipulate-and-control-african-governments-against-russia/"
                 />
-  </url><url>
-    <loc>https://thesanews.com/tags/usa/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
