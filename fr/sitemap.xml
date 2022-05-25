@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thesanews.com/fr/p/2023-peter-obi-r%C3%A9v%C3%A8le-une-campagne-de-diffamation-%C3%A0-son-encontre-et-se-retire-de-la-bataille-des-billets-du-parti/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/2023-peter-obi-reveals-a-smear-campaign-against-him-and-withdraws-from-the-partys-ticket-battle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/2023-peter-obi-r%C3%A9v%C3%A8le-une-campagne-de-diffamation-%C3%A0-son-encontre-et-se-retire-de-la-bataille-des-billets-du-parti/"
+                />
+  </url><url>
     <loc>https://thesanews.com/fr/categories/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -43,6 +56,25 @@
                 hreflang="fr"
                 href="https://thesanews.com/fr/"
                 />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/nigeria/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/nigeria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/nigeria/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/politique/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/categories/politique/</loc>
+    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/post/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
@@ -120,19 +152,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://thesanews.com/fr/p/ipob-le-nigeria-doit-%C3%AAtre-politiquement-d%C3%A9centralis%C3%A9-adamu-garba-bout-sur-la-mort-de-fatima/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/fr/tags/nigeria/</loc>
-    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/tags/nigeria/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/tags/nigeria/"
                 />
   </url><url>
     <loc>https://thesanews.com/fr/page/</loc>
@@ -294,9 +313,6 @@
                 />
   </url><url>
     <loc>https://thesanews.com/fr/tags/l%C3%A1frique/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/fr/categories/politique/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/tags/russie/</loc>
