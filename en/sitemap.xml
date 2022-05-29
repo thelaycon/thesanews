@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thesanews.com/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,6 +13,67 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thesanews.com/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/p/a-black-brazilian-was-smoked-to-death-by-the-cops/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/un-br%C3%A9silien-noir-a-%C3%A9t%C3%A9-fum%C3%A9-%C3%A0-mort-par-les-flics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/a-black-brazilian-was-smoked-to-death-by-the-cops/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/brazil/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/categories/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/categories/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/police-brutality/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/categories/politics/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/post/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/post/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/tags/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/"
                 />
   </url><url>
     <loc>https://thesanews.com/p/2023-peter-obi-reveals-a-smear-campaign-against-him-and-withdraws-from-the-partys-ticket-battle/</loc>
@@ -26,19 +87,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thesanews.com/p/2023-peter-obi-reveals-a-smear-campaign-against-him-and-withdraws-from-the-partys-ticket-battle/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/categories/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/categories/"
                 />
   </url><url>
     <loc>https://thesanews.com/categories/crime/</loc>
@@ -73,22 +121,6 @@
     <loc>https://thesanews.com/tags/peter-obi/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thesanews.com/categories/politics/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/post/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/post/"
-                />
-  </url><url>
     <loc>https://thesanews.com/p/salvador-ramos-18-kills-his-grandma-and-students-of-former-school-in-a-texas-shooting/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -100,19 +132,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://thesanews.com/p/salvador-ramos-18-kills-his-grandma-and-students-of-former-school-in-a-texas-shooting/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/tags/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/tags/"
                 />
   </url><url>
     <loc>https://thesanews.com/tags/texas/</loc>

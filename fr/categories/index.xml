@@ -6,20 +6,28 @@
         <description>Recent content in Categories on Les nouvelles de l&#39;Atlantique Sud</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Crime</title>
-        <link>https://thesanews.com/fr/categories/crime/</link>
-        <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Brutalité policière</title>
+        <link>https://thesanews.com/fr/categories/brutalit%C3%A9-polici%C3%A8re/</link>
+        <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://thesanews.com/fr/categories/crime/</guid>
+        <guid>https://thesanews.com/fr/categories/brutalit%C3%A9-polici%C3%A8re/</guid>
         <description></description>
         </item>
         <item>
         <title>Politique</title>
         <link>https://thesanews.com/fr/categories/politique/</link>
-        <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
         
         <guid>https://thesanews.com/fr/categories/politique/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Crime</title>
+        <link>https://thesanews.com/fr/categories/crime/</link>
+        <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/fr/categories/crime/</guid>
         <description></description>
         </item>
         <item>

@@ -2,6 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thesanews.com/fr/tags/br%C3%A9sil/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/categories/brutalit%C3%A9-polici%C3%A8re/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/categories/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/categories/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/categories/politique/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/post/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/post/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/p/un-br%C3%A9silien-noir-a-%C3%A9t%C3%A9-fum%C3%A9-%C3%A0-mort-par-les-flics/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/a-black-brazilian-was-smoked-to-death-by-the-cops/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/un-br%C3%A9silien-noir-a-%C3%A9t%C3%A9-fum%C3%A9-%C3%A0-mort-par-les-flics/"
+                />
+  </url><url>
     <loc>https://thesanews.com/fr/p/2023-peter-obi-r%C3%A9v%C3%A8le-une-campagne-de-diffamation-%C3%A0-son-encontre-et-se-retire-de-la-bataille-des-billets-du-parti/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +87,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://thesanews.com/fr/p/2023-peter-obi-r%C3%A9v%C3%A8le-une-campagne-de-diffamation-%C3%A0-son-encontre-et-se-retire-de-la-bataille-des-billets-du-parti/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/fr/categories/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/categories/"
                 />
   </url><url>
     <loc>https://thesanews.com/fr/categories/crime/</loc>
@@ -44,19 +105,6 @@
     <loc>https://thesanews.com/fr/tags/%C3%A9tats-unis/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thesanews.com/fr/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/"
-                />
-  </url><url>
     <loc>https://thesanews.com/fr/tags/nigeria/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -73,22 +121,6 @@
     <loc>https://thesanews.com/fr/tags/politique/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thesanews.com/fr/categories/politique/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/fr/post/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/post/"
-                />
-  </url><url>
     <loc>https://thesanews.com/fr/p/salvador-ramos-18-ans-tue-sa-grand-m%C3%A8re-et-des-%C3%A9l%C3%A8ves-dune-ancienne-%C3%A9cole-lors-dune-fusillade-au-texas/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -100,19 +132,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://thesanews.com/fr/p/salvador-ramos-18-ans-tue-sa-grand-m%C3%A8re-et-des-%C3%A9l%C3%A8ves-dune-ancienne-%C3%A9cole-lors-dune-fusillade-au-texas/"
-                />
-  </url><url>
-    <loc>https://thesanews.com/fr/tags/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://thesanews.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://thesanews.com/fr/tags/"
                 />
   </url><url>
     <loc>https://thesanews.com/fr/tags/texas/</loc>
