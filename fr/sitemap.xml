@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thesanews.com/fr/tags/br%C3%A9sil/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thesanews.com/fr/categories/brutalit%C3%A9-polici%C3%A8re/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thesanews.com/fr/categories/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,8 +15,37 @@
                 href="https://thesanews.com/fr/categories/"
                 />
   </url><url>
+    <loc>https://thesanews.com/fr/categories/des-sports/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/inter/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/inter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/inter/"
+                />
+  </url><url>
+    <loc>https://thesanews.com/fr/p/linter-milan-pourrait-ramener-romelu-lukaku/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/p/inter-milan-could-bring-romelu-lukaku-back/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/p/linter-milan-pourrait-ramener-romelu-lukaku/"
+                />
+  </url><url>
     <loc>https://thesanews.com/fr/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,11 +57,21 @@
                 href="https://thesanews.com/fr/"
                 />
   </url><url>
-    <loc>https://thesanews.com/fr/categories/politique/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <loc>https://thesanews.com/fr/tags/lukaku/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thesanews.com/tags/lukaku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://thesanews.com/fr/tags/lukaku/"
+                />
   </url><url>
     <loc>https://thesanews.com/fr/post/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,7 +84,7 @@
                 />
   </url><url>
     <loc>https://thesanews.com/fr/tags/</loc>
-    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -62,6 +95,15 @@
                 hreflang="fr"
                 href="https://thesanews.com/fr/tags/"
                 />
+  </url><url>
+    <loc>https://thesanews.com/fr/tags/br%C3%A9sil/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/categories/brutalit%C3%A9-polici%C3%A8re/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thesanews.com/fr/categories/politique/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/p/un-br%C3%A9silien-noir-a-%C3%A9t%C3%A9-fum%C3%A9-%C3%A0-mort-par-les-flics/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
@@ -288,9 +330,6 @@
                 hreflang="fr"
                 href="https://thesanews.com/fr/tags/basketball/"
                 />
-  </url><url>
-    <loc>https://thesanews.com/fr/categories/des-sports/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesanews.com/fr/tags/fiba/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>

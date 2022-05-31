@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Les nouvelles de l&#39;Atlantique Sud</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thesanews.com/fr/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Des sports</title>
+        <link>https://thesanews.com/fr/categories/des-sports/</link>
+        <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://thesanews.com/fr/categories/des-sports/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Brutalité policière</title>
         <link>https://thesanews.com/fr/categories/brutalit%C3%A9-polici%C3%A8re/</link>
         <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
@@ -44,14 +52,6 @@
         <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
         
         <guid>https://thesanews.com/fr/categories/sant%C3%A9/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Des sports</title>
-        <link>https://thesanews.com/fr/categories/des-sports/</link>
-        <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://thesanews.com/fr/categories/des-sports/</guid>
         <description></description>
         </item>
         
